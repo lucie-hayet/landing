@@ -1,0 +1,36 @@
+
+.card img {
+	width: 90px;
+	height: 70px;
+	border-radius: 4px;
+}
+
+#height {
+	height: 100px;
+	width: 90px;
+	}
+
+.card{ 
+	background-color: white;
+	border-radius: 4px;
+	padding: 15px;
+	padding-bottom: 10px;
+	box-shadow: 10px 5px 5px rgba(230,150,78,0.3);
+	margin: 15px auto;
+	display: flex;
+	border-radius: 4px;
+	justify-content: space-around;
+	align-items: center;
+	color: #1e5088;
+	font-weight: : bold;
+	flex-basis: 220px;
+}
+
+.cards{ 
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.cards h4{ 
+	flex-grow: 1;
+ } 
